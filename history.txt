@@ -1,0 +1,1000 @@
+ 1028  git pull
+ 1029  git pull origin point_to_dollar_5132
+ 1030  git checkout feature_points_to_dollar 
+ 1031  git pull
+ 1032  git merge point_to_dollar_5132
+ 1033  git push
+ 1034  git checkout 
+ 1035  git checkout point_to_dollar_5130
+ 1036  git pull
+ 1037  git pull origin point_to_dollar_5130
+ 1038  git branch 
+ 1039  git merge deployment_2_june_2016 
+ 1040  git checkout feature_points_to_dollar 
+ 1041  git pull
+ 1042  git merge point_to_dollar_5130
+ 1043  git status 
+ 1044  git merge point_to_dollar_5130
+ 1045  git checkout point_to_dollar_5128 
+ 1046  git pull
+ 1047  git pull origin point_to_dollar_5128
+ 1048  git merge deployment_2_june_2016 
+ 1049  git checkout feature_points_to_dollar 
+ 1050  git pull
+ 1051  git merge point_to_dollar_5128
+ 1052  git checkout point_to_dollar_5119
+ 1053  git pull
+ 1054  git pull origin point_to_dollar_5119
+ 1055  git branch 
+ 1056  git merge deployment_2_june_2016 
+ 1057  git checkout feature_points_to_dollar 
+ 1058  git merge point_to_dollar_5119
+ 1059  git checkout point_to_dollar_5106 
+ 1060  git merge deployment_2_june_2016 
+ 1061  git branch 
+ 1062  git pull origin .snapchat-viewinsight-box .img-listbox img{
+ 1063  }
+ 1064  #blog_statistics .ul-custom-traffic li{
+ 1065  git pull origin point_to_dollar_5106 
+ 1066  git merge deployment_2_june_2016 
+ 1067  git checkout feature_points_to_dollar 
+ 1068  git merge point_to_dollar_5106
+ 1069  git checkout feature_points_to_dollar 
+ 1070  git pull
+ 1071  rake db:migrate RAILS_ENV=development 
+ 1072  bundle
+ 1073  rake db:migrate RAILS_ENV=development 
+ 1074  git checkout deployment_7_jun_2016
+ 1075  git checkout master_clone_rails_4
+ 1076  git pull
+ 1077  git checkout deployment_7_jun_2016
+ 1078  git pull
+ 1079  sidekiq
+ 1080  bundle
+ 1081  sidekiq
+ 1082  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1083  git pull
+ 1084  git checkout feature_points_to_dollar
+ 1085  git pull
+ 1086  git checkout feature_points_to_dollar
+ 1087  git merge point_to_dollar_5199
+ 1088  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1089  git pull
+ 1090  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1091  git pull
+ 1092  rails g migration AddOpportunityCountToUser opportunity_count:integer
+ 1093  bundle
+ 1094  rails g migration AddOpportunityCountToUser opportunity_count:integer
+ 1095  rak db:migrate
+ 1096  rake db:migrate
+ 1097  rails d migration AddOpportunityCountToUser opportunity_count:integer
+ 1098  rake db:migrate
+ 1099  rails g migration AddOpportunityCountToUser
+ 1100  rake db:migrate
+ 1101  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1102  git pull
+ 1103  git checkout advowire_ui_issue_4978
+ 1104  git master_clone_rail_4
+ 1105  git checkout master_clone_rail_4
+ 1106  git checkout master_clone_rails_4
+ 1107  git pull
+ 1108  git checkout advowire_ui_issue_4978
+ 1109  git checkout feedback_ui_issue_5207
+ 1110  git pull
+ 1111  git checkout feedback_ui_issue_5207
+ 1112  git checkout deployment_2_june_2016 
+ 1113  git pull
+ 1114  git checkout feedback_ui_issue_5207
+ 1115  git merge deployment_2_june_2016 
+ 1116  git push
+ 1117  git checkout feedback_ui_issue_5207
+ 1118  git checkout  deployment_2_june_2016 
+ 1119  git merge feedback_ui_issue_5207
+ 1120  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1121  git checkout digital_ocean_rails_4 
+ 1122  git pull
+ 1123  git checkout feedback_ui_issue_5207 
+ 1124  git pull
+ 1125  git pull origin feedback_ui_issue_5207
+ 1126  git checkout deployment_2_june_2016 
+ 1127  git pull
+ 1128  git merge feedback_ui_issue_5207
+ 1129  git checkout master_clone_rails_4
+ 1130  git pull
+ 1131  git branch 
+ 1132  git merge feedback_ui_issue_5207
+ 1133  git branch 
+ 1134  git checkout master_clone_rails_4
+ 1135  git merge feedback_ui_issue_5207_new
+ 1136  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1137  git pull
+ 1138  git checkout advowire_ui_issue_4978
+ 1139  git checkout origin/advowire_ui_issue_4978
+ 1140  git checkout origin advowire_ui_issue_4978
+ 1141  git checkout master_clone_rails_4
+ 1142  git pull
+ 1143  git checkout origin advowire_ui_issue_4978
+ 1144  git checkout advowire_ui_issue_4978
+ 1145  git checkout master_clone_rails_4
+ 1146  git checkout advowire_ui_issue_4978
+ 1147  git checkout origin/advowire_ui_issue_4978
+ 1148  git checkout master_clone_rails_4
+ 1149  git pull
+ 1150  git checkout advowire_ui_issue_4978
+ 1151  git pull
+ 1152  git checkout deployment_2_june_2016 
+ 1153  git pull
+ 1154  git branch 
+ 1155  git merge advowire_ui_issue_4978
+ 1156  git checkout digital_ocean_rails_4 
+ 1157  git pull
+ 1158  git checkout point_to_dollar_5199
+ 1159  git merge deployment_2_june_2016 
+ 1160  git checkout  deployment_2_june_2016 
+ 1161  git pull
+ 1162  git merge point_to_dollar_5199
+ 1163  git checkout feature_points_to_dollar 
+ 1164  git pull
+ 1165  git checkout deployment_2_june_2016 
+ 1166  git checkout digital_ocean_rails_4 
+ 1167  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1168  git checkout deployment_07_may_2016 
+ 1169  git pull
+ 1170  git pull origin deployment_07_may_2016
+ 1171  git checkout master_clone_rails_4
+ 1172  git pull
+ 1173  git pull origin
+ 1174  git pull origin deployment_7_june_2016
+ 1175  git checkout deployment_7_jun_2016 
+ 1176  git pull
+ 1177  git merge master_clone_rails_4 
+ 1178  git merge --rebort
+ 1179  git merge -rebort
+ 1180  git merge --abort
+ 1181  git checkout master_clone_rails_4
+ 1182  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1183  git pull
+ 1184  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1185  git merge advowire_ui_issue_4836_feature_to_dollar
+ 1186  cd .
+ 1187  rails c
+ 1188  bundle
+ 1189  rails c
+ 1190  bundle
+ 1191  rails c
+ 1192  bundle
+ 1193  rails c
+ 1194  cd projects/hire-influence/
+ 1195  rails s
+ 1196  bundle
+ 1197  rails s
+ 1198  bundle
+ 1199  rails s
+ 1200  cd projects/hire-influence/
+ 1201  rails s
+ 1202  bundle
+ 1203  rails s
+ 1204  bundle
+ 1205  rails s
+ 1206  bundle
+ 1207  rails s
+ 1208  bundle
+ 1209  rails s
+ 1210  bundle
+ 1211  rails s
+ 1212  bundle
+ 1213  rails s
+ 1214  bundle
+ 1215  rails s
+ 1216  rails r ./script/generate_redis_data "update=true"
+ 1217  rails s
+ 1218  bundle
+ 1219  rails s
+ 1220  rails r ./script/generate_redis_data "update=true"
+ 1221  rails s
+ 1222  bundle
+ 1223  rails s
+ 1224  rails r ./script/generate_redis_data "update=true"
+ 1225  rails s
+ 1226  cd .
+ 1227  rails c
+ 1228  cd .
+ 1229  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1230  git pull
+ 1231  git merge advowire_ui_issue_5243
+ 1232  git checkout advowire_ui_issue_4836_feature_to_dollar
+ 1233  git checkout search_listing 
+ 1234  rails r ./script/generate_redis_data "update=true"
+ 1235  redis-cli 
+ 1236  rake db:migrate RAILS_ENV=development 
+ 1237  bundle
+ 1238  rake db:migrate RAILS_ENV=development 
+ 1239  git checkout search_listing 
+ 1240  rspec spec/controllers/businesses/search_controller_spec.rb 
+ 1241  git checkout search_listing 
+ 1242  bundle exec rake sunspot:solr:start
+ 1243  git checkout search_listing 
+ 1244  bundle exec rake sunspot:solr:start
+ 1245  git checkout search_listing 
+ 1246  git checkout search_listing exit
+ 1247  exit
+ 1248  cd .
+ 1249  git checkout master_clone_rails_4
+ 1250  git checkout digital_ocean_rails_4
+ 1251  git pull
+ 1252  git checkout deployment_7_jun_2016
+ 1253  git pull
+ 1254  git merge feedback_ui_issue_5322
+ 1255  git merge origin/feedback_ui_issue_5322
+ 1256  git merge --abort
+ 1257  git checkout feedback_ui_issue_5322
+ 1258  git merge master_clone_rails_4 
+ 1259  git checkout advowire_ui_issue_4978
+ 1260  git pull
+ 1261  git merge master_clone_rails_4 
+ 1262  git push
+ 1263  git checkout advowire_ui_issue_4870
+ 1264  git pull
+ 1265  git checkout rails_4_2641_do_staging 
+ 1266  git pull
+ 1267  git merge advowire_ui_issue_4870
+ 1268  git push
+ 1269  git checkout master_clone_rails_4
+ 1270  git pull
+ 1271  rake db:migrate RAILS_ENV=development 
+ 1272  bundle
+ 1273  rake db:migrate RAILS_ENV=development 
+ 1274  git checkout advowire_ui_issue_4978
+ 1275  git merge master_clone_rails_4 
+ 1276  git checkout rails_4_2641_do_staging
+ 1277  git merge advowire_ui_issue_4978
+ 1278  git merge --abort
+ 1279  git checkout master_clone_rails_4
+ 1280  git pull
+ 1281  git checkout opps-board-changes.mscr4 
+ 1282  git pull
+ 1283  cd projects/hire-influence/
+ 1284  rails c
+ 1285  cd
+ 1286  exit
+ 1287  cd ..
+ 1288  cd hire-influence/
+ 1289  rails -v
+ 1290  cd projects/hire-influence/
+ 1291  rails s
+ 1292  git checkout master_clone_rails_4 
+ 1293  git pull
+ 1294  rails s
+ 1295  bundle
+ 1296  rails s
+ 1297  bundle
+ 1298  rails s
+ 1299  cd ..
+ 1300  ls
+ 1301  cd discourse/
+ 1302  rails -v
+ 1303  rvm gemset list
+ 1304  rvm use hire_influence
+ 1305  rmv list
+ 1306  rvm list
+ 1307  rvm gemset list
+ 1308  rvm gemset list use disclosure
+ 1309  rvm gemset use disclosure
+ 1310  bundle
+ 1311  rails s
+ 1312  bundle exec rake autospec
+ 1313  ember serve
+ 1314  rails generate ember:install
+ 1315  npm i ember-cli --save-dev
+ 1316  ember serve
+ 1317  rails s
+ 1318  sudo npm install -g ember-cli bower
+ 1319  ember serve
+ 1320  cd 
+ 1321  cd projects/discourse/
+ 1322  ls
+ 1323  cd node_modules/
+ 1324  cd ember-cli/
+ 1325  cd blueprints/
+ 1326  npm install
+ 1327  bower install
+ 1328  cd app/
+ 1329  bower install
+ 1330  cd files/
+ 1331  bower install
+ 1332  npm install
+ 1333  ember  serve
+ 1334  brew install watchmannpm install -g phantomjs-prebuilt
+ 1335  npm install -g phantomjs-prebuilt
+ 1336  sudo npm install -g phantomjs-prebuilt
+ 1337  cd .
+ 1338  rails c
+ 1339  git checkout master_clone_rails_4
+ 1340  git pull
+ 1341  bundle
+ 1342  rails c
+ 1343  cd .
+ 1344  bundle exec rake sunspot:solr:start
+ 1345  git merge advowire_ui_issue_5338
+ 1346  git checkout master_clone_rails_4
+ 1347  rake db:migrate RAILS_ENV=development 
+ 1348  bundle
+ 1349  rake db:migrate RAILS_ENV=development 
+ 1350  git checkout rails_4_2641_do_staging 
+ 1351  git pull
+ 1352  git merge advowire_ui_issue_1305
+ 1353  git checkout master_clone_rails_4
+ 1354  git pull
+ 1355  git checkout digital_ocean_rails_4 
+ 1356  git pull
+ 1357  git merge master_clone_rails_4
+ 1358  git push
+ 1359  cd projects/hire-influence/
+ 1360  rails s
+ 1361  bundle
+ 1362  rails s
+ 1363  cd
+ 1364  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 1365  sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+ 1366  cd .
+ 1367  bundle exec rake sunspot:solr:start
+ 1368  git checkout deployment_9_june_2016
+ 1369  git pull
+ 1370  git checkout advowire_ui_issue_4978
+ 1371  git merge deployment_9_june_2016
+ 1372  git checkout deployment_9_june_2016
+ 1373  git checkout advowire_ui_issue_5242 
+ 1374  git pull
+ 1375  git merge deployment_9_june_2016
+ 1376  git checkout deployment_9_june_2016
+ 1377  git merge advowire_ui_issue_5242
+ 1378  git merge --abort
+ 1379  git checkout advowire_ui_issue_5338 
+ 1380  git pull
+ 1381  git merge deployment_9_june_2016
+ 1382  git checkout  deployment_9_june_2016
+ 1383  git merge advowire_ui_issue_5338 
+ 1384  sudo apt-get install ocrfeeder
+ 1385  ocrfeeder
+ 1386  cd .
+ 1387  rails c
+ 1388  bundle
+ 1389  rails c
+ 1390  git checkout advowire_ui_issue_5069_new
+ 1391  git checkout master_clone_rails_
+ 1392  git checkout master_clone_rails_4
+ 1393  git pull
+ 1394  git checkout advowire_ui_issue_5069_new
+ 1395  git pull
+ 1396  git merge master_clone_rails_4 
+ 1397  git checkout rails_4_2641_do_staging 
+ 1398  git pull
+ 1399  git merge advowire_ui_issue_5069_new
+ 1400  rails c
+ 1401  cd projects/hire-influence/
+ 1402  rails s
+ 1403  rails -b 
+ 1404  rails -b 0.0.0.0
+ 1405  rails s -b 0.0.0.0
+ 1406  bundle
+ 1407  rails s
+ 1408  rake swagger:docs
+ 1409  rails s
+ 1410  rails s -b 0.0.0.0
+ 1411  rake swagger:docs
+ 1412  rails s -b 0.0.0.0
+ 1413  rake swagger:docs
+ 1414  rails s -b 0.0.0.0
+ 1415  rake swagger:docs
+ 1416  rails s -b 0.0.0.0
+ 1417  rake swagger:docs
+ 1418  rails s -b 0.0.0.0
+ 1419  rake swagger:docs
+ 1420  rails s -b 0.0.0.0
+ 1421  vagrant plugin install vagrant-vbguest
+ 1422  vagrant plugin install vagrant-cachier
+ 1423  mkdir -p ~/assemblymade
+ 1424  cd ~/assemblymade
+ 1425  git clone https://github.com/AjayBarot-BTC/coderwall-legacy.git
+ 1426  ls
+ 1427  cd coderwall-legacy/
+ 1428  ./run.sh
+ 1429  rvm gemset list
+ 1430  rvm list
+ 1431  ruby -v
+ 1432  bundle
+ 1433  rvm list
+ 1434  rvm install ruby-2.2.2
+ 1435  rvm list
+ 1436  rvm gemset list
+ 1437  bundle
+ 1438  rvm gemset list
+ 1439  sudo apt install ruby-bundler
+ 1440  bundle
+ 1441  rvm list
+ 1442  rvm use ruby-2.2.2
+ 1443  rvm list
+ 1444  bundle
+ 1445  sudo gem install debug_inspector -v '0.0.2'
+ 1446  sudo gem install debug_inspector
+ 1447  bundle config build.nio4r --with-cflags="-std=c99"
+ 1448  bundle install
+ 1449  vagrant plugin install vagrant-vbguest
+ 1450  cd assemblymade/
+ 1451  ls
+ 1452  cd coderwall-legacy/
+ 1453  ./run.sh
+ 1454  cd .
+ 1455  rails c
+ 1456  rvm gemset list
+ 1457  rvm gemset use hire_influence
+ 1458  rails c
+ 1459  ls
+ 1460  cd selfstarter/
+ 1461  rvm gemset list
+ 1462  rvm gemset use rails-4.0.0
+ 1463  rails s
+ 1464  rake db:seed
+ 1465  rails s
+ 1466  rake routes
+ 1467  cd ..
+ 1468  cd Spina/
+ 1469  cd lib/
+ 1470  ls
+ 1471  cd generators/
+ 1472  ls
+ 1473  cd spina/
+ 1474  ls
+ 1475  ruby install_generator.rb 
+ 1476  cd ..
+ 1477  ruby lib/generators/spina/install_generator.rb 
+ 1478  rails c
+ 1479  rvm gemset list
+ 1480  rvm gemset use hire_influence
+ 1481  bundle
+ 1482  rails c
+ 1483  cd ..
+ 1484  rails s
+ 1485  rvm gemset list
+ 1486  rvm gemset use hire_influence
+ 1487  rails c
+ 1488  cd
+ 1489  cd projects/
+ 1490  ls
+ 1491  git clone https://github.com/AjayBarot-BTC/refinerycms.git
+ 1492  ls
+ 1493  cd refinerycms/
+ 1494  ls
+ 1495  rvm gemset list
+ 1496  rvm gemset use hire_influence
+ 1497  rails -v
+ 1498  bundle
+ 1499  gem install minitest -v '5.9.0'
+ 1500  bundle
+ 1501  gem install routing-filter -v '0.5.1'
+ 1502  bundle
+ 1503  rails s
+ 1504  bundle exec rake refinery:testing:dummy_app
+ 1505  bundle exec rake
+ 1506  sudo apt-get install phantomjs 
+ 1507  bundle exec rake
+ 1508  rails s
+ 1509  bundle exec rake routes
+ 1510  bundle exec rake route
+ 1511  rake route
+ 1512  rails s
+ 1513  rake routes
+ 1514  rails s
+ 1515  rails generate refinery:engine event title:string date:datetime photo:image blurb:text
+ 1516  bundle install
+ 1517  rails generate refinery:events
+ 1518  rake db:migrate
+ 1519  rake db:seed
+ 1520  rails s
+ 1521  bundle exec rake
+ 1522  git branch 
+ 1523  cd images/spec/features/refinery/
+ 1524  ls
+ 1525  cd admin/
+ 1526  rspec images_spec.rb:8
+ 1527  cd .
+ 1528  cd ..
+ 1529  cd .
+ 1530  cd ..
+ 1531  rspec images/spec/features/refinery/admin/images_spec.rb 
+ 1532  rspec images/spec/features/refinery/admin/images_spec.rb:11
+ 1533  rspec images/spec/features/refinery/admin/images_spec.rb:19
+ 1534  bundle
+ 1535  rspec images/spec/features/refinery/admin/images_spec.rb:19
+ 1536  sudo apt-get install qt5-default libqt5webkit5-dev gstreamer1.0-plugins-base gstreamer1.0-tools gstreamer1.0-x
+ 1537  rspec images/spec/features/refinery/admin/images_spec.rb:19
+ 1538  sudo apt-get install libqt4-dev libqtwebkit-dev
+ 1539  rspec images/spec/features/refinery/admin/images_spec.rb:19
+ 1540  bundle exec rake
+ 1541  rails d refinery:events
+ 1542  bundle
+ 1543  bundle exec rake
+ 1544  cd ..
+ 1545  git clone https://github.com/denkGroot/Spina.git
+ 1546  ls
+ 1547  cd Spina/
+ 1548  rvm gemset list
+ 1549  bundle
+ 1550  rails s
+ 1551  rails server
+ 1552  ls
+ 1553  cd test/
+ 1554  ls
+ 1555  rails server
+ 1556  ls
+ 1557  cd dummy/
+ 1558  ls
+ 1559  rails s
+ 1560  rake db:setup
+ 1561  rails s
+ 1562  ls
+ 1563  rails s
+ 1564  rvm gemset list
+ 1565  rails s
+ 1566  bundle
+ 1567  rails s
+ 1568  rake 'spina:install:migrations'
+ 1569  rake 'db:migrate'
+ 1570  rake 'spina:bootstrap'
+ 1571  rake '::Spina::Theme.register'
+ 1572  rake ::Spina::Theme.register
+ 1573  rake spina:bootstrap
+ 1574  rails s
+ 1575  cd .
+ 1576  rails c
+ 1577  git checkout master_clone_rails_s
+ 1578  git checkout master_clone_rails_4 
+ 1579  git checkout rails_4_2641_do_staging 
+ 1580  git checkout master_clone_rails_4 
+ 1581  rake swagger:docs
+ 1582  rvm gemset list
+ 1583  cd .
+ 1584  rake swagger:docs
+ 1585  ls -F test
+ 1586  ls
+ 1587  rake test test/models/api/v1/sessions_test.rb
+ 1588  rake db:test:prepare
+ 1589  rake test test/models/api/v1/sessions_test.rb
+ 1590  rake db:migrate RAILS_ENV=test
+ 1591  rake test test/models/api/v1/sessions_test.rb
+ 1592  rake test test/controllers/api/v1/sessions_test.rb
+ 1593  rake test test/controllers/api/v1/advocate_campaign_controller_test
+ 1594  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1595  cd projects/hire-influence/
+ 1596  rails s
+ 1597  bundle
+ 1598  rails s
+ 1599  rails s -b 0.0.0.0
+ 1600  rake swagger:docs
+ 1601  rails s -b 0.0.0.0
+ 1602  rake swagger:docs
+ 1603  rails s -b 0.0.0.0
+ 1604  bundle
+ 1605  rails s -b 0.0.0.0
+ 1606  cd projects/
+ 1607  ls
+ 1608  cd refinerycms/
+ 1609  ls
+ 1610  rvm gemset list
+ 1611  rvm gemset use hire_influence
+ 1612  imagemagick
+ 1613  sudo apt-get install imagemagick libmagickwand-dev
+ 1614  bundle exec rake
+ 1615  imagemagick
+ 1616  sudo apt-get install imagemagick
+ 1617  sudo imagemagick
+ 1618  sudo apt-get install imagemagick
+ 1619  sudo apt-get update 
+ 1620  sudo apt-get install imagemagick
+ 1621  php -m | grep imagick
+ 1622  sudo apt-get install php5 php5-common gcc
+ 1623  sudo apt-get install imagemagick php5-imagick
+ 1624  sudo apt-get install build-essential checkinstall && apt-get build-dep imagemagick -y
+ 1625  checkinstall
+ 1626  sudo php5enmod imagick
+ 1627  sudo apt-get install php5enmod
+ 1628  sudo apt-get install php5-imagick
+ 1629  php -v
+ 1630  sudo apt-get install php7.0-cli
+ 1631  php -v
+ 1632  php -m | grep imagick
+ 1633  imagick
+ 1634  sudo phpdismod sudo
+ 1635  sudo phpdismod imagick
+ 1636  cd
+ 1637  network-manager
+ 1638  sudo network-manager
+ 1639  cd projects/
+ 1640  ls
+ 1641  cd refinerycms/
+ 1642  rvm gemset list
+ 1643  rvm gemset use hire_influence
+ 1644  ruby -v
+ 1645  bash --login
+ 1646  cd ..
+ 1647  cd hire-influence/
+ 1648  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1649  git checkout advowire_ui_issue_5069_new
+ 1650  git checkout deployment_14_jun_2016
+ 1651  git pull
+ 1652  git checkout advowire_ui_issue_5069_new
+ 1653  git merge deployment_14_jun_2016
+ 1654  git checkout deployment_14_jun_2016
+ 1655  git checkout master_clone_rails_4
+ 1656  git checkout advowire_ui_issue_2132
+ 1657  git checkout advowire_ui_issue_5280
+ 1658  git checkout rails_4_2641_do_staging 
+ 1659  git pull
+ 1660  git merge advowire_ui_issue_5280
+ 1661  git checkout advowire_ui_issue_2132
+ 1662  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1663  rake db:migrate RAILS_ENV=test
+ 1664  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1665  rails c RAILS_ENV=test
+ 1666  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1667  git checkout cleanup_5343
+ 1668  git pull
+ 1669  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1670  rails c RAILS_ENV=test
+ 1671  rails c test
+ 1672  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1673  bundle exec rake sunspot:solr:start
+ 1674  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1675  irb
+ 1676  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1677  cd projects/hire-influence/
+ 1678  rails c
+ 1679  cd ..
+ 1680  cd hire-influence/
+ 1681  rails c
+ 1682  cd projects/hire-influence/
+ 1683  rails s
+ 1684  cd ..
+ 1685  cd hire-influence/
+ 1686  rails s
+ 1687  rails s -b 0.0.0.0
+ 1688  message
+ 1689  rake db:migrate RAILS_ENV=development
+ 1690  rails s -b 0.0.0.0
+ 1691  cd ..
+ 1692  ls
+ 1693  cd refinerycms/
+ 1694  ls
+ 1695  rvm gemset list
+ 1696  rvm gemset use hire_influence
+ 1697  phatomjs
+ 1698  phantomjs
+ 1699  phantomjs -v
+ 1700  bundler
+ 1701  bundler -v
+ 1702  gem uninstall -i /home/abprime/.rvm/gems/ruby-2.2.3@global bundler
+ 1703  gem bundler update
+ 1704  bundle update bundler
+ 1705  gem uninstall -i /home/abprime/.rvm/gems/ruby-2.2.3@global bundler
+ 1706  bundle
+ 1707  bundle exec rake 
+ 1708  bundler -v
+ 1709  rvm gemset list
+ 1710  gem uninstall -i /home/abprime/.rvm/gems/ruby-2.2.3@hire_influence bundler
+ 1711  bundle
+ 1712  bundler -v
+ 1713  gem uninstall bundler
+ 1714  bundler -v
+ 1715  bundle
+ 1716  bundle exec rake 
+ 1717  rvm gemset list
+ 1718  rails -v
+ 1719  gem install rails '4.2.4'
+ 1720  rails -v
+ 1721  bundle exec rake 
+ 1722  cd .
+ 1723  bundle exec rake sunspot:solr:start
+ 1724  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1725  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1726  rails c test
+ 1727  rake import_cities test
+ 1728  RAILS_ENV=test bundle exec rake seed_cities
+ 1729  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1730  rails c test
+ 1731  RAILS_ENV=test rails c
+ 1732  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1733  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1734  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1735  git checkout cleanup_5343 
+ 1736  git pull
+ 1737  git merge cleanup_5343
+ 1738  rake db:migrate RAILS_ENV=development
+ 1739  bundle
+ 1740  rake db:migrate RAILS_ENV=development
+ 1741  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1742  rake db:migrate RAILS_ENV=test
+ 1743  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1744  git checkout advowire_ui_issue_5280
+ 1745  git pull
+ 1746  git checkout master_clone_rails_4
+ 1747  git pull
+ 1748  git branch 
+ 1749  git checkout advowire_ui_issue_5280
+ 1750  git merge master_clone_rails_4 
+ 1751  rails s
+ 1752  bundle
+ 1753  rails s
+ 1754  rake db:migrate RAILS_ENV=development
+ 1755  bunbd
+ 1756  bundle
+ 1757  rake db:migrate RAILS_ENV=development
+ 1758  rake swagger:docs
+ 1759  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1760  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1761  rake test test/controllers/api/v1/sessions_controller_test.rb:23
+ 1762  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1763  rake test test/controllers/api/v1/sessions_controller_test.rb:23
+ 1764  rake test test/controllers/api/v1/
+ 1765  rake swagger:docs
+ 1766  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1767  cd .
+ 1768  bundle exec rake sunspot:solr:start
+ 1769  git checkout master_clone_rails_4
+ 1770  git pull
+ 1771  cd .
+ 1772  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1773  git checkout master_clone_rails_4 
+ 1774  git pull
+ 1775  git checkout deployment_16_jun_2016
+ 1776  git pull
+ 1777  git checkout advowire_ui_issue_5371
+ 1778  git pull
+ 1779  git checkout advowire_ui_issue_5371
+ 1780  git merge deployment_16_jun_2016
+ 1781  git checkout advowire_ui_issue_5316
+ 1782  git merge deployment_16_jun_2016 
+ 1783  git checkout advowire_ui_issue_5280
+ 1784  git merge deployment_16_jun_2016 
+ 1785  git checkout deployment_16_jun_2016
+ 1786  git pull
+ 1787  git branch 
+ 1788  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1789  git checkout advowire_ui_issue_5359
+ 1790  git checkout master_clone_rails_4
+ 1791  git pull
+ 1792  git checkout advowire_ui_issue_5359
+ 1793  git checkou
+ 1794  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1795  RAILS_ENV=test bundle exec rake sunspot:solr:start
+ 1796  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1797  ps aux | grep solr
+ 1798  sudo kill 3601
+ 1799  sudo kill 18021
+ 1800  sudo kill 18208
+ 1801  ps aux | grep solr
+ 1802  sudo kill 18247
+ 1803  ps aux | grep solr
+ 1804  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1805  RAILS_ENV=test bundle exec rake sunspot:solr:start
+ 1806  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1807  rake swagger:docs
+ 1808  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1809  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1810  rake test test/controllers/api/v1/advocate_campaign_controller_test
+ 1811  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1812  git checkout master_clone_rails_4
+ 1813  git pull
+ 1814  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1815  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1816  git checkout master_clone_rails_4 
+ 1817  git pull
+ 1818  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1819  rake test test/controllers/api/v1/advocate
+ 1820  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1821  rake test test/controllers/api/v1/sessions_controller_test.rb
+ 1822  rake test test/controllers/api/v1/registrations_controller_test.rb
+ 1823  rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1824  spring rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1825  RAILS_ENV=test bundle exec rake sunspot:solr:start
+ 1826  spring rake test test/controllers/api/v1/advocate_campaign_controller_test.rb
+ 1827  spring rake test test/controllers/api/v1/network_controller_test.rb 
+ 1828  spring rake test test/controllers/api/v1/registrations_controller_test.rb 
+ 1829  spring rake test test/controllers/api/v1/sessions_controller_test.rb 
+ 1830  spring rake test test/controllers/api/v1/advocate_campaign_controller_test.rb 
+ 1831  spring rake test test/controllers/api/v1/network_controller_test.rb 
+ 1832  cd .
+ 1833  rails c
+ 1834  OA
+ 1835  rails c
+ 1836  cd projects/hire-influence/
+ 1837  rails s
+ 1838  rails s -b 0.0.0.0
+ 1839  rails s
+ 1840  rails s -b 0.0.0.0
+ 1841  ps aux | grep rails
+ 1842  ps aux | grep solr
+ 1843  kill -9 7604A
+ 1844  kill -9 18305
+ 1845  ps aux | grep solr
+ 1846  kill -9 7623
+ 1847  rails s -b 0.0.0.0
+ 1848  cd Desktop/
+ 1849  ls
+ 1850  rvm gemset list
+ 1851  ruby getter_setter.rb 
+ 1852  irb
+ 1853  rvm list
+ 1854  irb
+ 1855  cd
+ 1856  irb
+ 1857  cd Desktop/
+ 1858  ruby monkey_patching.rb 
+ 1859  irb
+ 1860  cd .
+ 1861  sudo su postgres
+ 1862  psql hi_development_test < new_dump
+ 1863  sudo su postgres
+ 1864  psql -h localhost -d hi_development_test -U abprime -f backup_test.sql
+ 1865  psql
+ 1866  sudo su postgres
+ 1867  ps auxw|grep postgres|grep -- -D  
+ 1868  cd /usr/lib/postgresql/9.5/bin/
+ 1869  ls
+ 1870  cd
+ 1871  psql 
+ 1872  pgadmin3 
+ 1873  sudo pgadmin3 
+ 1874  sudo su postgres 
+ 1875  cd projects/hire-influence/
+ 1876  rails s
+ 1877  rails s -b 0.0.0.0
+ 1878  cd .
+ 1879  rails c
+ 1880  ifconfig
+ 1881  cd
+ 1882  vim dsds.txt
+ 1883  gedit dsds.txt
+ 1884  nano dsds.txt
+ 1885  cd .
+ 1886  git checkout master_clone_rails_4
+ 1887  git pull
+ 1888  git status
+ 1889  git checkout advowire_ui_issue_3830
+ 1890  git pull
+ 1891  git merge deployment_23_june_2016
+ 1892  git checkout advowire_ui_issue_5427
+ 1893  git pull
+ 1894  git merge deployment_23_june_2016
+ 1895  git checkout advowire_ui_issue_5402
+ 1896  git pull
+ 1897  git status
+ 1898  git merge deployment_23_june_2016
+ 1899  git checkout advowire_ui_issue_5401
+ 1900  git pull
+ 1901  git status
+ 1902  git merge deployment_23_june_2016
+ 1903  git checkout advowire_ui_issue_5421_point_1
+ 1904  git pull
+ 1905  git merge deployment_23_june_2016
+ 1906  git checkout advowire_ui_issue_2132_cleaup 
+ 1907  spring rake test test/controllers/api/v1/profile_controller_test.rb 
+ 1908  bundle
+ 1909  spring rake test test/controllers/api/v1/profile_controller_test.rb 
+ 1910  spring rake test test/controllers/api/v1/advocate_campaign_controller_test.rb 
+ 1911  spring rake test test/controllers/api/v1/profile_controller_test.rb 
+ 1912  bundle exec rake sunspot:solr:start
+ 1913  spring rake test test/controllers/api/v1/profile_controller_test.rb 
+ 1914  ps aux 
+ 1915  ps aux | grep solr
+ 1916  kill -9 25990
+ 1917  bundle exec rake sunspot:solr:start
+ 1918  ps aux | grep solr
+ 1919  kill -9 12648
+ 1920  kill -9 13101
+ 1921  ps aux | grep solr
+ 1922  kill -9 13142
+ 1923  bundle exec rake sunspot:solr:star
+ 1924  RAILS_ENV=test bundle exec rake sunspot:solr:start
+ 1925  ps aux | grep s
+ 1926  ps aux | grep solr
+ 1927  kill -9 13177
+ 1928  kill -9 20709
+ 1929  ps 
+ 1930  spring rake test test/controllers/api/v1/twitearn_campaign_controller_test.rb 
+ 1931  ps aux | grep solr
+ 1932  kill -9 20769
+ 1933  kill -9 21479
+ 1934  bundle exec rake sunspot:solr:start
+ 1935  cd projects/hire-influence/
+ 1936  rails s
+ 1937  rails s -b 0.0.0.0
+ 1938  cd
+ 1939  sudo apt-get install python-genshi
+ 1940  python panel-applet-generator.py -n mylabel -d "my custom label"
+ 1941  python
+ 1942  panel-applet-generator
+ 1943  panel-applet-generator.py
+ 1944  python-genshi
+ 1945  cd .
+ 1946  rails c
+ 1947  cd
+ 1948  sudo wireshark 
+ 1949  sudo groupadd wireshark
+ 1950  sudo usermod -a -G wireshark abprime
+ 1951  sudo chgrp wireshark /usr/bin/dumpcap
+ 1952  sudo chmod 750 /usr/bin/dumpcap
+ 1953  sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap
+ 1954  sudo getcap /usr/bin/dumpcap
+ 1955  sudo wireshark 
+ 1956  sudo dpkg-reconfigure wireshark-common
+ 1957  cd ..
+ 1958  cd
+ 1959  cd
+ 1960  sudo apt-get install wireshark
+ 1961  cd projects/
+ 1962  ls
+ 1963  rvm gemset list
+ 1964  rvm gemset use hire_influence
+ 1965  rails -v
+ 1966  rails new devise-demo
+ 1967  ls
+ 1968  cd devise-demo/
+ 1969  ls
+ 1970  rvm gemset list
+ 1971  ps aux 
+ 1972  ps aux | grep wireshark
+ 1973  kill -9 7825
+ 1974  kill -9 7968
+ 1975  ps aux | grep wireshark
+ 1976  cd
+ 1977  cd projects/hire-influence/
+ 1978* 
+ 1979  rails s -b 0.0.0.0
+ 1980  sudo dpkg-reconfigure wireshark-common
+ 1981  sudo adduser $USER wireshark
+ 1982  sudo wireshark
+ 1983  gksu wireshark
+ 1984  cd burp\ suite/
+ 1985  cd ..
+ 1986  cd burp_suite/
+ 1987  curl https://portswigger.net/DownloadUpdate.ashx?Product=Free -o 
+ 1988  sudp curl https://portswigger.net/DownloadUpdate.ashx?Product=Free -o 
+ 1989  sudo curl https://portswigger.net/DownloadUpdate.ashx?Product=Free -o 
+ 1990  curl
+ 1991  sudo apt-get install curl
+ 1992  curl https://portswigger.net/DownloadUpdate.ashx?Product=Free -o
+ 1993  curl https://portswigger.net/DownloadUpdate.ashx?Product=Free
+ 1994  curl https://portswigger.net/DownloadUpdate.ashx?Product=Free -o burpsuite_free.jar
+ 1995  java -jar -Xmx1024m burpsuite_free.jar
+ 1996  cd projects/devise-demo/
+ 1997  ruby -v
+ 1998  bundle
+ 1999  rails generate devise:install
+ 2000  rails generate devise users
+ 2001  rake db:migrate
+ 2002  rails s
+ 2003  rake db:sessions:clear
+ 2004  rails c
+ 2005  rails s
+ 2006  rake db:sessions:clear
+ 2007  rake db:sessions
+ 2008  rake db:sessions:clear --task
+ 2009  rake db:sessions:clear --tasks
+ 2010  rake tmp:clear
+ 2011  rails c
+ 2012  rails s
+ 2013  rails c
+ 2014  rails s
+ 2015  rails g controller home
+ 2016  rails s
+ 2017  rails c
+ 2018  rails s
+ 2019  rails c
+ 2020  rails s
+ 2021  rails c
+ 2022  rails s
+ 2023  rails g migration AddColumnsToUsers first_name:string last_name:string
+ 2024  rake db:migrate
+ 2025  rails generate devise:views
+ 2026  rails s
+ 2027  history > history.txt
