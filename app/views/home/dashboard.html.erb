@@ -1,0 +1,43 @@
+<%= render 'share/header_page' %>
+<% if can? :index, current_user %>
+    <table class="table table-hover">
+      <thead>
+      <tr>
+        <th>#</th>
+        <th>Status</th>
+        <% @users.each do |user| %>
+         <th><%= user.username %></th>
+        <% end %>
+      </tr>
+      </thead>
+      <tbody>
+      <%- @todos.each_with_index do |todo, index| %>
+        <tr>
+          <th scope="row"><%= index + 1 %></th>
+          <td><%= todo_status(todo) %></td>
+          <% if todo.user_todos.present? %>
+            <%- todo.user_todos.each do |user_todo| %>
+              <td><%= user_todo.todo.title %></td>
+            <% end %>
+          <% end %>
+        </tr>
+      <% end %>
+      <!--<tr>-->
+        <!--<td>Mark</td>-->
+        <!--<td>Otto</td>-->
+        <!--<td>@mdo</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+        <!--<th scope="row">2</th>-->
+        <!--<td>Jacob</td>-->
+        <!--<td>Thornton</td>-->
+        <!--<td>@fat</td>-->
+      <!--</tr>-->
+      <!--<tr>-->
+        <!--<th scope="row">3</th>-->
+        <!--<td colspan="2">Larry the Bird</td>-->
+        <!--<td>@twitter</td>-->
+      <!--</tr>-->
+      </tbody>
+    </table>
+<% end %>
