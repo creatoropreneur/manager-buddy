@@ -1,5 +1,7 @@
 class HomeController < ApplicationController
 
-  def index
+  def dashboard
+    @users = User.developer
+    @todos = Todo.all
   end
 end
